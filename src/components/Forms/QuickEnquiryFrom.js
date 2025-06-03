@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { registerUser, verifyOtp } from "../../actions/auth";
-
+import contactimg from "../../assets/images/QuickEnquiryImg.png";
 import Swal from "sweetalert2";
 
 const QuickEnquiryForm = () => {
