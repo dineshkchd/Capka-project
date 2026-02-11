@@ -23,7 +23,7 @@ function Topbar() {
                   <div className="top-info-d">
                     <FontAwesomeIcon icon={faPhone} />
                     &nbsp;
-                    <span>+91 964-687-4599</span>
+                    <span>+91 978-042-4599</span>
                   </div>
                 </div>
               </Col>
